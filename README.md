@@ -34,4 +34,4 @@ LinkedIn: linkedin.com/in/aaron-rader-00103027b
 
 Email: aaronrader.dev@gmail.com
 
-Download My Resume: Click Here to Download
+Download My Resume: [Click Here to Download](https://aaron-2792.github.io/AaronRader_Resume.pdf) 
