@@ -30,7 +30,7 @@ Get in Touch
 
 I'm actively seeking any and all Job and internship opportunities. Please feel free to reach out!
 
-LinkedIn: linkedin.com/in/aaron-rader-00103027b
+LinkedIn: [linkedin.com/in/aaron-rader-00103027b](https://www.linkedin.com/in/aaron-rader-00103027b/)
 
 Email: aaronrader.dev@gmail.com
 
